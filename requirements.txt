@@ -12,3 +12,7 @@ trustcall
 langgraph-cli[inmem]>=0.1.58
 python-dotenv
 debugpy
+uvicorn
+FastAPI
+langserve
+httpx==0.27.0
